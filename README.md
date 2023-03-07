@@ -13,8 +13,3 @@
   alt="kanban-notebook"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  <img
-  src="src\assets\3.jpeg"
-  alt="kanban-notebook"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
